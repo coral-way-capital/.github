@@ -15,7 +15,6 @@ Our work focuses on revenue and document operations. Every engagement should pro
 | --- | --- |
 | [pons](https://github.com/coral-way-capital/pons) | Connects allowlisted Discord channels to Grok and local assistants through an authenticated HTTP API and CLI. Includes channel and thread history, events, and explicitly requested sends. |
 | [tasks-cli](https://github.com/coral-way-capital/tasks-cli) | Simple tasks for agents. |
-| [orchestrator](https://github.com/coral-way-capital/orchestrator) | Mission Control for the issue-to-PR pipeline: dashboard, issue queue, webhook receiver, and event tracking. |
 
 Visit [coralwaycapital.com](https://coralwaycapital.com) to learn about our work, or explore the [brand guidelines](https://coralwaycapital.com/brand/).
 
