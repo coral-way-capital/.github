@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://coralwaycapital.com/brand/assets/double-echo-horizontal-dark.svg">
-  <img alt="Coral Way Capital" src="https://coralwaycapital.com/brand/assets/double-echo-horizontal-light.svg" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://coralwaycapital.com/brand/assets/double-echo-horizontal-dark.svg?v=20261010">
+  <img alt="Coral Way Capital" src="https://coralwaycapital.com/brand/assets/double-echo-horizontal-light.svg?v=20261010" width="420">
 </picture>
 
 ### Build ownership, not hours.
